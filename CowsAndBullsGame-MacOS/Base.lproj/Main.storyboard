@@ -857,13 +857,13 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="guess" destination="Ydc-aO-Xv6" id="KAE-Hk-2m9"/>
                         <outlet property="tableView" destination="dTv-ZU-rZ4" id="kOS-Pr-Efb"/>
-                        <outlet property="textField" destination="Ydc-aO-Xv6" id="SpC-RK-voF"/>
                     </connections>
                 </viewController>
                 <customObject id="rPt-NT-nkU" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="75" y="655"/>
+            <point key="canvasLocation" x="76" y="810"/>
         </scene>
     </scenes>
 </document>
